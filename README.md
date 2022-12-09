@@ -14,6 +14,7 @@ Target Framework:
 - .Net 6
 
 # Demo
-<img src="https://github.com/SurajB-2601/UIBuilderForWPF/blob/main/UIBuilderForWPF-demo2.gif" height="300" /> 
+![Alt Text](https://github.com/SurajB-2601/UIBuilderForWPF/blob/main/UIBuilderForWPF-demo2.gif)
+<img src="https://github.com/SurajB-2601/UIBuilderForWPF/blob/main/UIBuilderForWPF-demo2.gif" height="200" width="200"/> 
 
 [UIBuilderForWPF-demo2](https://user-images.githubusercontent.com/33862877/206663838-3cad8dd6-bad8-4a16-b1d5-191a31f88a7c.gif)
