@@ -11,7 +11,7 @@ Dependencies:
 - Microsoft.Extensions.DependencyInjection
 
 Target Framework:
-.Net 6
+- .Net 6
 
 # Demo
 [UIBuilderForWPF-demo2](https://user-images.githubusercontent.com/33862877/206663838-3cad8dd6-bad8-4a16-b1d5-191a31f88a7c.gif)
